@@ -10,7 +10,7 @@
 4. [Deploy a Pod / App into the Cluster](#deploy-an-app-into-the-cluster)
     - [Accessing the Deployed App](#time-to-access-the-deployed-app)
 5. [Kubernetes Debug](#kubernetes-debug)
-6. [Usage instructions](#usage-instructions)
+    - [Usage instructions](#usage-instructions)
 
 ## What is Kubernetes? 
 
